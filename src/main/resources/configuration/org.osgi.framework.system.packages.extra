@@ -1,0 +1,17 @@
+javafx.application
+javafx.beans.binding
+javafx.beans.property
+javafx.beans.value
+javafx.collections
+javafx.collections.transformation
+javafx.event
+javafx.geometry
+javafx.scene
+javafx.scene.control
+javafx.scene.image
+javafx.scene.input
+javafx.scene.layout
+javafx.scene.paint
+javafx.scene.shape
+javafx.scene.text
+javafx.stage

@@ -1,0 +1,22 @@
+.root {
+  -fx-accent: #ff7700;
+  -fx-focus-color: #ff7700;
+}
+
+.main-title {
+  -fx-font-size: 12pt;
+  -fx-border-width: 0 0 2 0;
+  -fx-border-color: transparent;
+}
+
+.main-focus {
+  -fx-border-color: #ff7700;
+}
+
+#queryEditor {
+  -fx-font-family: monospace
+}
+
+#templateEditor {
+  -fx-font-family: monospace
+}
